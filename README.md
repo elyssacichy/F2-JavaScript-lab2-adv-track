@@ -16,3 +16,5 @@ comments. Be sure to read everything. Run lab2.js with `node lab2.js`.
 
 
 #### Resources and Collaborators
+
+I looked up a lot of stuff about .sort and .forEach on MDN. I also googled how to add elements of an array together, but it didn't end up being the way I did it.
