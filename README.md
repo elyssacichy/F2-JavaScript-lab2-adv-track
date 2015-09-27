@@ -16,3 +16,4 @@ comments. Be sure to read everything. Run lab2.js with `node lab2.js`.
 
 
 #### Resources and Collaborators
+I looked up .sort and .forEAch on MDN, and did a lot of googling on the blob problem. (usually looking at other people's questions on stack overflow.)
